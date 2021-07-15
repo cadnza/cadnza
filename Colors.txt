@@ -1,0 +1,11 @@
+Bright orange
+FC6138
+
+Plain blue
+4090FF
+
+Medium blue
+020A71
+
+Dark blue
+00102E
